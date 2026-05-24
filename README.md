@@ -1,4 +1,4 @@
-# Arthouse-Figura-Help
+# All Related Arthouse SMP Files
 This is for all files related to Arthouse SMP, especially Figura. This repository does include the AHSMP1 world, however the majority of downloadable files here will be related to Figura.
 
 The main goal of this is to compile files related to Figura to give Arthouse members an easy time accessing them. I have not personally created everything uploaded here.
