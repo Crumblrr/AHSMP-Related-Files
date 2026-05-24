@@ -1,5 +1,5 @@
-# All Related Arthouse SMP Files
-This is for all files related to Arthouse SMP, especially Figura. This repository will include a download for AHSMP1 and for the AHSMP1 modpack, as well as downloads for the AHSMP2 modpack, however this is mostly here to share things for Figura.
+# AHSMP Files
+This is for files related to AHSMP, especially Figura specifically.
 
 The main goal of this is to compile files related to Figura to give Arthouse members an easy time accessing them. I have not personally created everything uploaded here.
 This will include scripts and models. For the most part, these scripts and models will have been created by other authors. Full credit goes to them and will be included within those files.
