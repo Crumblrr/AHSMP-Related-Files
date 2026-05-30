@@ -7,7 +7,7 @@ Please do not share this outside of Arthouse. I do not wish to take away from th
 
 I will be updating this as I continue with my Figura projects.
 
-
+Credit goes to the original model authors - the only example model in this that I have made is my 'CrumbsExampleModel'. All others I have found and freely downloaded via the Figura discord server, which, if you are looking to get into Figura, I highly recommend joining. Link for the Figura website here (invite link for Discord can be found here): https://figuramc.org/
 
 Links to OG authors githubs (if provided / if they exist) will be linked below.
 A couple of the scripts provided here have been edited by my Dad (thank you Dad!). These include:
