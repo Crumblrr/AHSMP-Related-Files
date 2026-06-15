@@ -24,7 +24,7 @@ local lastDeltaTime,lasterDeltaTime,lastestDeltaTime,lastDelta = 1,1,1,1
 local time,deltaTime = 0,0
 local colliderGroups = {}
 local physBonePresets = {}
-local renderedPhysBones
+local renderedPhysBones = {}
 local debugMode = false
 local recreatewhitelists = false;
 local whiteTexture = textures:newTexture("white",1,1)
