@@ -23,3 +23,4 @@ OG SCRIPT CREDITS:
 - DYNAMIC SPEED: (don't know of a github download for this, got it from discord. here is the authors Kofi: https://ko-fi.com/piratesee)
 - PHYSBONEAPI: https://github.com/ChloeSpacedOut/figura-physbone-api
 - ROPE PHYSICS: credit to @manuel_2867 on discord (found in Figura discord server)
+- AYLConfig (+ script to go alongside it): credit to @ayellowlizard on discord (found in Figura discord server)
