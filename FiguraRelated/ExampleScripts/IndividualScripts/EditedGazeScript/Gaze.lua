@@ -1057,7 +1057,7 @@ function api:newGaze(head, eyePivot)
       turnDampen = 0.7,
       faceEntities = false,
       faceBlocks = false,
-      faceDirection = true,
+      faceDirection = false, -- set to true if your model has no automatic head rotation (no folder named Head)
       doRandomGaze = true,
     },
     children = {},
