@@ -364,6 +364,7 @@ physBone.addPhysBone = function(self,part,index)
 	assert(not physBoneIndex[index],'error adding physBone: a physBone with index "'..index..'" already exists')
 	physBoneIndex[index] = ID
 	part.index = index
+	part.whitelist = {}
 	physBone[ID] = part
 
 	part.path.midRender = function(delta,context)
